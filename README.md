@@ -1,4 +1,4 @@
-## Hi, Its me 👋
+## Hi, Its me! 👋
 
 Software developer with a interest in building systems. Passionate about problem-solving, backend development, and understanding how things work under the hood.
 
